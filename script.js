@@ -72,4 +72,4 @@ function chooseOptExpenses() {
         console.log(appData.optionalExpenses);
     }
 }
-chooseOptExpenses();
+chooseOptExpenses(); //Последнее изменение
